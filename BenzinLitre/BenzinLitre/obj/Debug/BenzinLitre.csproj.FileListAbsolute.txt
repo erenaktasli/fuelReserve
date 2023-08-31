@@ -1,0 +1,10 @@
+C:\Users\KENT-BSLAB\source\repos\BenzinLitre\BenzinLitre\bin\Debug\BenzinLitre.exe.config
+C:\Users\KENT-BSLAB\source\repos\BenzinLitre\BenzinLitre\bin\Debug\BenzinLitre.exe
+C:\Users\KENT-BSLAB\source\repos\BenzinLitre\BenzinLitre\bin\Debug\BenzinLitre.pdb
+C:\Users\KENT-BSLAB\source\repos\BenzinLitre\BenzinLitre\obj\Debug\BenzinLitre.csproj.AssemblyReference.cache
+C:\Users\KENT-BSLAB\source\repos\BenzinLitre\BenzinLitre\obj\Debug\BenzinLitre.Form1.resources
+C:\Users\KENT-BSLAB\source\repos\BenzinLitre\BenzinLitre\obj\Debug\BenzinLitre.Properties.Resources.resources
+C:\Users\KENT-BSLAB\source\repos\BenzinLitre\BenzinLitre\obj\Debug\BenzinLitre.csproj.GenerateResource.cache
+C:\Users\KENT-BSLAB\source\repos\BenzinLitre\BenzinLitre\obj\Debug\BenzinLitre.csproj.CoreCompileInputs.cache
+C:\Users\KENT-BSLAB\source\repos\BenzinLitre\BenzinLitre\obj\Debug\BenzinLitre.exe
+C:\Users\KENT-BSLAB\source\repos\BenzinLitre\BenzinLitre\obj\Debug\BenzinLitre.pdb
